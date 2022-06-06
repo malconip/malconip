@@ -7,6 +7,7 @@ I'm a cyberpunk ronin, surfing the matrix for more than 11 years with experience
 
 ![whoaim](assets/neuro.jpg)
 
-# Choose you pill and follow me
+# Choose your pill and follow me
+
 
 ![whoaim](assets/morpheus.gif)
